@@ -1,0 +1,44 @@
+{
+  "step_file": "_model1.stp",
+  "face_count": 6,
+  "numbering_rule": "Open Cascade traversal order; face_id equals graph node id",
+  "scaled_to_unit_box": true,
+  "faces": [
+    {
+      "face_id": 0,
+      "graph_node_id": 0,
+      "attribute_row": 0,
+      "surface_type": "plane"
+    },
+    {
+      "face_id": 1,
+      "graph_node_id": 1,
+      "attribute_row": 1,
+      "surface_type": "plane"
+    },
+    {
+      "face_id": 2,
+      "graph_node_id": 2,
+      "attribute_row": 2,
+      "surface_type": "plane"
+    },
+    {
+      "face_id": 3,
+      "graph_node_id": 3,
+      "attribute_row": 3,
+      "surface_type": "plane"
+    },
+    {
+      "face_id": 4,
+      "graph_node_id": 4,
+      "attribute_row": 4,
+      "surface_type": "plane"
+    },
+    {
+      "face_id": 5,
+      "graph_node_id": 5,
+      "attribute_row": 5,
+      "surface_type": "plane"
+    }
+  ]
+}
